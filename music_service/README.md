@@ -1,6 +1,6 @@
 # Исследование данных музыкального сервиса Яндекс Музыка
 
-[HTML](), [ipynb]()
+[HTML](https://github.com/arhitru/portfolio/blob/main/music_service/music_service.html), [ipynb](https://github.com/arhitru/portfolio/blob/main/music_service/music_service.ipynb)
 
 Сравнение Москвы и Петербурга окружено мифами. Например:
  * Москва — мегаполис, подчинённый жёсткому ритму рабочей недели;
