@@ -1,6 +1,6 @@
 # Анализ поведения пользователей мобильного приложения
 
-[HTML](), [ipynb]()
+[HTML](https://github.com/arhitru/portfolio/blob/main/user_behavior/user_behavior.html), [ipynb](https://github.com/arhitru/portfolio/blob/main/user_behavior/user_behavior.ipynb)
 
 ### Описание проекта
 На основе данных использования мобильного приложения для продажи продуктов питания проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования.
