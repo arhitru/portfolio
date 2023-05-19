@@ -1,6 +1,6 @@
 # Определение выгодного тарифа для телеком компании
 
-[HTML](), [ipynb]()
+[HTML](https://github.com/arhitru/portfolio/blob/main/favorable_tariff/favorable_tariff.html), [ipynb](https://github.com/arhitru/portfolio/blob/main/favorable_tariff/favorable_tariff.ipynb)
 
 ### Описание проекта
 На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа.
