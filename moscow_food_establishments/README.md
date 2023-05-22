@@ -1,6 +1,6 @@
 # Анализ рынка заведений общественного питания Москвы
 
-[HTML](https://github.com/arhitru/portfolio/blob/main/moscow_food_establishments/moscow_food_establishments.html), [ipynb](https://github.com/arhitru/portfolio/blob/main/moscow_food_establishments/moscow_food_establishments.ipynb)
+[HTML](https://github.com/arhitru/portfolio/blob/main/moscow_food_establishments/moscow_food_establishments.html), [ipynb](https://github.com/arhitru/portfolio/blob/main/moscow_food_establishments/moscow_food_establishments.ipynb), [PDF](https://github.com/arhitru/portfolio/blob/main/moscow_food_establishments/Открытие%20кофейни.pdf)
 
 
 Исследование рынка Москвы, поиск интересных особенностей, которые в будущем помогут в выборе подходящего инвесторам места.
