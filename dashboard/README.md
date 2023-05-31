@@ -1,7 +1,7 @@
 # Создание дашборда по пользовательским событиям для агрегатора
 новостей
 
-[Tableau](https://public.tableau.com/views/dashboard_y_p/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Tableau](https://public.tableau.com/views/dashboard_y_p/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), [PDF](https://github.com/arhitru/portfolio/blob/main/dashboard/dashboard_y_p.pdf)
 
 ### Описание проекта
 Используя данные Яндекс.Дзена построить дашборд с метриками взаимодействия пользователей с карточками статей
