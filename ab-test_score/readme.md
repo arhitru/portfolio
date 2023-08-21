@@ -1,6 +1,6 @@
 # Оценка А/В-теста
 
-[ipynb]()
+[ipynb](https://github.com/arhitru/portfolio/blob/main/ab-test_score/A-B-test_score.ipynb)
 
 ### Описание проекта
 Оценить корректность проведения теста и проанализировать его результаты.
