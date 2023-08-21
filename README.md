@@ -2,7 +2,8 @@
 
 | №   | Наименование проекта  | Описание  |  Стек |
 |:---:|---|---|---|
-| 12 | Анализ оттока клиентов банка | Анализ клиентов регионального банка, сегментация клиентов по вероятности ухода из банка | Python, Pandas, Matplotlib, Seaborn, Scikit-learn |
+| 13 | [Анализ оттока клиентов банка](https://github.com/arhitru/portfolio/tree/main/bank_churn) | Анализ клиентов регионального банка, сегментация клиентов по вероятности ухода из банка | Python, Pandas, Matplotlib, Seaborn, Scikit-learn |
+| 12 |[Оценка А/В-тестa](https://github.com/arhitru/portfolio/tree/main/ab-test_score)|Оценка корректности проведения теста и анализ его результатов|Python, Pandas, Matplotlib, SciPy, Plotly, А/В-тестирование, проверка статистических гипотез|
 | 11 | [Дашборд](https://github.com/arhitru/portfolio/tree/main/dashboard) | Создание дашборда по пользовательским событиям для агрегатора новостей | Python, SQLAlchemy, PostgreSQL, dash, Tableu |
 | 10 | [Анализ пользовательского поведения в мобильном приложении](https://github.com/arhitru/portfolio/tree/main/user_behavior) | Анализ поведения пользователей мобильного приложения, воронки продаж и результатов A/A/B-эксперимента | Python, Pandas, Matplotlib, Seaborn, Plotly |
 | 9 | [Определение наиболее перспективного округа Москвы для открытия точки общепита](https://github.com/arhitru/portfolio/tree/main/moscow_food_establishments) | Исследование рынка общепита в Москве для принятия решения об открытии нового заведения | Python, Pandas, Matplotlib, Seaborn, Plotly |
