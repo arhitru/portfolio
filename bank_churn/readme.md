@@ -1,6 +1,6 @@
 # Анализ оттока клиентов банка
 
-[ipynb](), [Tableau](https://public.tableau.com/app/profile/maxim.babintsev/viz/customer_outflow/Dashboard1?publish=yes), [PDF]()
+[ipynb](), [Tableau](https://public.tableau.com/app/profile/maxim.babintsev/viz/customer_outflow/Dashboard1?publish=yes), [PDF](https://github.com/arhitru/portfolio/blob/main/bank_churn/customer_outflow.pdf)
 
 ### Описание проекта
 Анализ портретов клиентов регионального банка, сегментация клиентов по вероятности ухода из банка.
